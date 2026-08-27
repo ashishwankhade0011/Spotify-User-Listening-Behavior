@@ -8,6 +8,8 @@ To analyze listening behavior and understand how, when, and what users listen to
 
 Dashboard-
 
+<img width="1050" height="587" alt="Image" src="https://github.com/user-attachments/assets/5be106f6-a61d-4cf0-af99-6988734dbc49" />
+
 
 
 
