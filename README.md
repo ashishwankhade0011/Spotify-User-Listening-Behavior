@@ -14,12 +14,19 @@ Dashboard-
 
 
 Key Visuals/Key business questions the dashboard should answer-
+
 Total listening time (hours)
+
 Total tracks played
+
 Skipped track
+
 Total albums
+
 unique artists
+
 skip rate
+
 shuffle track
 
 Charts-
@@ -39,31 +46,48 @@ Can we identify patterns between skipped, ms_played, artist, track, time of day,
 Do users listen differently when shuffle is enabled?
 
 Dashboard Highlights-
+
 Total Listening Time: 5,342 hours — showing very high long-term engagement with Spotify.
+
 Total Listening Records: 149,860 listening events.
+
 Unique Artists: 4,112 artists listened to.
+
 Unique Tracks: 13,839 tracks played.
+
 Total Tracks: 149860 tracks played
+
 Overall Skip Rate: 5.3%, meaning most played tracks were not skipped.
+
 Shuffle  Tracks: 111583
+
 Skipped Tracks: 7869
 
 📊 Key Insights-
+
 1.Most Used Platform: Android, accounting for roughly 93% of listening events.
 Top Artist by Listening Time: The Beatles, followed by The Killers and John Mayer.
+
 2.Listening peaked around 2020–2021
 2020 was the strongest year with approximately 921 hours of listening, followed by 2021 with about 892 hours.
+
 3. Strong preference for shuffle listening
 Approximately 75% of listening events occurred with shuffle enabled, suggesting the user frequently prefers Spotify to choose what plays next.
+
 4. Very low overall skip behavior
 The overall skip rate is only 5.25%, indicating relatively high satisfaction with the tracks being played.
+
 5. Android dominates listening behavior
 Android generated about 4,858 listening hours, far more than any other platform.
-6. Classic/rock-oriented listening is prominent
+
+7. Classic/rock-oriented listening is prominent
 The top artists include The Beatles, The Killers, John Mayer, Bob Dylan, The Rolling Stones, Pink Floyd, and Led Zeppelin, indicating a strong preference toward rock, classic rock, and singer-songwriter music.
-7.The top track include Ode To The Mets, The Return of the King, The Fellowship Reunited, 19 Dias y 500 Noches 
-8.The top albums are The New Abnormal, The Beatles, Imploding the Mirage  
-9. Recent listening volume has declined
+
+8.The top track include Ode To The Mets, The Return of the King, The Fellowship Reunited, 19 Dias y 500 Noches 
+
+9.The top albums are The New Abnormal, The Beatles, Imploding the Mirage  
+
+10. Recent listening volume has declined
 After the peak in 2020–2021, total listening time declined in 2022–2024. At the same time, the skip rate increased noticeably in 2023–2024, which could indicate changing listening preferences or lower engagement.
 
 💡 Best Executive Insight
